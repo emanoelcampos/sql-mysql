@@ -1,0 +1,5 @@
+DELETE
+FROM
+	tbVendedores
+WHERE
+	MATRICULA = '00233';

@@ -1,0 +1,5 @@
+DELETE 
+FROM
+	tbProduto
+WHERE 
+	PRODUTO = '1078680';
