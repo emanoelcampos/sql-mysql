@@ -1,0 +1,4 @@
+ALTER TABLE
+	tbProduto
+ADD PRIMARY KEY
+	(PRODUTO);
