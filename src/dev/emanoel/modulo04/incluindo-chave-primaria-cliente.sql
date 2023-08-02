@@ -1,0 +1,2 @@
+ALTER TABLE tbCliente
+ADD PRIMARY KEY (CPF);
